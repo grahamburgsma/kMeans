@@ -1,0 +1,12 @@
+.default-color0.chart-symbol { /* Point */
+    -fx-background-color: #696969;
+    -fx-background-radius: 1px;
+    -fx-padding: 1px;
+}
+
+
+.default-color1.chart-symbol { /* Centroid */
+    -fx-background-color: #68228B;
+    -fx-background-radius: 6px;
+    -fx-padding: 6px;
+}
